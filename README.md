@@ -3,7 +3,7 @@ Product Management System using ReactJs and Spring Boot with MySQL database
 
 Title : Product Management System
 
-Platform : Spring Boot, React js, MYSQL Duration : 1 Month
+Platform : Spring Boot, React js, MYSQL
 
 Description : The Product Management System is a mini-project that utilizes Spring Boot, React js, and MYSQL to build a full
 stack web application that enables CRUD operations. The system allows users to manage product data, including
